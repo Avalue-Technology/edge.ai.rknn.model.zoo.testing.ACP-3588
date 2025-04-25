@@ -11,6 +11,7 @@ Please build and deploy RKNN Model Zoo sample code to the ACP-3588 with Debian 1
 ./rknn_LPRNet_demo <model_path> <image_path>
 ````
 **Testing Result.**
+https://github.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3588/blob/main/MarkdownDocumentImages/rknn_LPRNet_demo.01.JPG?raw=true
 
 **Reference.** [RKNN Model Zoo > LPRNet](https://github.com/airockchip/rknn_model_zoo/tree/main/examples/LPRNet "LPRNet")
 
