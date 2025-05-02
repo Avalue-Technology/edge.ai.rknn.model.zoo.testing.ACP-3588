@@ -5,6 +5,8 @@ This repository contains Avalue Technology Inc., ACP-3588 with Debian 11 runing 
 # Hardware Requirement
 Please build and deploy RKNN Model Zoo sample code to the ACP-3588 with Debian 11 Firmware.
 
+---
+
 # LPRNet
 **Usage:**
 ````bash
@@ -23,7 +25,7 @@ Please build and deploy RKNN Model Zoo sample code to the ACP-3588 with Debian 1
 ````
 **Testing Result.**
 ![rknn_retinaface_demo.01.JPG](https://raw.githubusercontent.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3588/refs/heads/main/MarkdownDocumentImages/rknn_retinaface_demo.01.JPG "rknn_retinaface_demo.01.JPG")
-![rknn_retinaface_demo.02.JPG](https://raw.githubusercontent.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3588/refs/heads/main/MarkdownDocumentImages/rknn_retinaface_demo.02.JPG "rknn_retinaface_demo.01.JPG")
+![rknn_retinaface_demo.02.JPG](https://raw.githubusercontent.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3588/refs/heads/main/MarkdownDocumentImages/rknn_retinaface_demo.02.JPG "rknn_retinaface_demo.02.JPG")
 
 **Reference.** [RKNN Model Zoo > RetinaFace](https://github.com/airockchip/rknn_model_zoo/tree/main/examples/RetinaFace "RetinaFace")
 
